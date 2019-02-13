@@ -7,6 +7,11 @@ class Main
     void sort(double arr[], long start, long end) 
     { 
       // sort the array here
+      //insertion sort
+      ins = 1;
+      for i in ins {
+      
+      }
     } 
 
   
