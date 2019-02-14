@@ -7,11 +7,14 @@ class Main
     void sort(double arr[], long start, long end) 
     { 
       // sort the array here
-      //insertion sort
-      ins = 1;
-      for i in ins {
-      
+      //bubble sort
+      for (int count = 0; count <= arr.length; count++) {
+        if (System.out(arr[count]) > System.out(arr[count + 1])) {
+          
+        }
       }
+      
+      
     } 
 
   
